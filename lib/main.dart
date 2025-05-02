@@ -30,7 +30,7 @@ class Car {
 final List<Car> carList = [
   Car(name: "Tesla Model S", imagePath: 'assets/Tesla Model S.jpg', details: "Range: 348ml\nTopSpeed: 200mph\nPower: 1020hp"),
   Car(name: "BMW M3 Competition", imagePath: 'assets/BMW M3 Competition.jpg', details: "Engine: 3.0L Twin-Turbocharged Inline-Six\nTop Speed: 155mph\nPower: 503hp"),
-  Car(name: "Mercedes G Wagon", imagePath: 'assets/Mercedes G Wagon.jpg', details: "Engine:  3.0L Inline-Six Turbo\nTorque: 627 lb-ft\nPower: 577hp")
+  Car(name: "Mercedes G Wagon", imagePath: 'assets/Mercedes Benz G Class.jpg', details: "Engine:  3.0L Inline-Six Turbo\nTorque: 627 lb-ft\nPower: 577hp")
 ];
 
 class autoraHome extends StatelessWidget {
